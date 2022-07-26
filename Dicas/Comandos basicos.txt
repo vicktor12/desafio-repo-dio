@@ -1,0 +1,9 @@
+Git config --global user.email ""
+Git config --global user.name 
+Git clone
+Git status
+Git add <nome arquivo> ou * para add tudo
+Git commit -m ""
+Git push origin <nome do repositorio>
+Git pull origin <nome do repositorio>
+echo <nome arquivo> > (usando o sinal de maior diz que caso não exista o arquivo, crie um) <nome do arquivo.extensão>

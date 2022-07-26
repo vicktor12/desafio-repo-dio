@@ -1,0 +1,3 @@
+Recomendo utilizar o WSL do windows para ter um terminal do linux.
+
+Dessa forma possibilitando testar os comandos tanto em windows quanto em linux na hora de estudar sobre comandos do git/terminal
